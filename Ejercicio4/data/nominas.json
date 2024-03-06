@@ -1,1 +1,27 @@
-"nominas.json"
+{
+    "Empleados": {
+        "123": {
+            "id": "123",
+            "nombre": "adaa",
+            "cargo": "Almacenista",
+            "salario": 21313.0
+        }
+    },
+    "EmpladosNomina": {
+        "123": {
+            "id": "123",
+            "Colillas": {
+                "123": {
+                    "id": "123",
+                    "mespagado": "Noviembre",
+                    "fechapago": "12/12/2022",
+                    "sueldobase": 600000.0,
+                    "valorTotalHrasExtra": 82500.0,
+                    "cuotaPrestamo": 120000.0,
+                    "descuentoXcafeteria": 12000.0,
+                    "totalapagar": 550500.0
+                }
+            }
+        }
+    }
+}
