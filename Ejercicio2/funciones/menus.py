@@ -1,6 +1,6 @@
 import os
 
-def menuss(usuarios):
+def menuss(usuarios:dict):
     isrun = True
     while isrun:
         os.system('cls')

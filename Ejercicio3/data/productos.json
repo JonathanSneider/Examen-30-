@@ -1,0 +1,23 @@
+{
+    "4512": {
+        "id": "4512",
+        "nombre": "da",
+        "valorUnitario": "ada",
+        "stockmin": "dadads",
+        "stockmax": "adsa"
+    },
+    "123": {
+        "id": "123",
+        "nombre": "adas",
+        "valorUnitario": "asdad",
+        "stockmin": "adsad",
+        "stockmax": "adssad"
+    },
+    "5125": {
+        "id": "5125",
+        "nombre": "adsad",
+        "valorUnitario": "adada",
+        "stockmin": "dadsad",
+        "stockmax": "adad"
+    }
+}
